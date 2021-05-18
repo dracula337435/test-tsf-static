@@ -9,7 +9,7 @@ import java.util.Set;
 public class AStaticOne {
 
     static{
-        System.out.println("hello");
+        System.out.println("===hello===");
     }
 
     public static Set<String> someSet = new HashSet<>();
